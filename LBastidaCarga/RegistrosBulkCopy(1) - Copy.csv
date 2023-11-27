@@ -1,0 +1,50 @@
+Nombre,Precio Unitario,Stock,Descripci�n ,FechaRegistro,Separador,IdProveedor,Proveedor,Numero,Direccion
+Coca-Cola,258.13 ,92,"Bebida, sabor Vainilla",Abril 22-02-23,-,35434534,Femsa,456789012345 ,-
+Hamburgesa,687.77 ,2,Hamburguesa con queso ,Abril 01-05-23,-,54543435,Mc' Donalds,876543210987 ,"Calle relovuc�n, 36, G.A.M"
+Mac'n Cheese,288.44 ,59,Macarrones con queso,Marzo 15-11-22,-,36368388,Electronics Plus,234567890123 ,"123 Calle Principal, Ciudad Ejemplo, Estado A1B 2C3, Pa�s"
+nuggets de pollo,"3,655.92 ",36,Nuggets congelados de pollo,Mayo 20-09-23,-,79984845,Gadget Galaxy,123456789012 ,"456 Avenida Central, Pueblo de la Monta�a, Estado X4Y 5Z6, Pa�s"
+MacBook Air M1,"1,019.69 ",85,Producto port�til con chip M1,Febrero 10-08-23,-,18946546,Tech Innovations Ltd.,987654321098 ,"789 Calle Secundaria, Ciudad Imaginaria, Estado M7N 8P9, Pa�s"
+Bose QuietComfort 35 II,"1,766.51 ",97,Auriculares con cancelaci�n de ruido,Julio 05-04-23,-,10984632,Appliance Haven,456789012345 ,"321 Carretera R�pida, Pueblo del Valle, Estado Q1R 2S3, Pa�s"
+Samsung 65-Inch QLED 4K TV,"1,198.82 ",18,Televisor QLED con resoluci�n 4K,Enero 30-03-23,-,75432168,Global Tech Solutions,876543210987 ,-
+Dyson V11 Torque Drive,297.81 ,15,Aspiradora sin cable de alta potencia,Noviembre 12-06-23,-,29876543,Fashion Electronics Co.,234567890123 ,"543 Calle Tranquila, Ciudad de los Sue�os, Estado T4U 5V6, Pa�s"
+Adidas Ultraboost 21,"2,027.34 ",20,Zapatillas de running para mujer,Agosto 23-01-23,-,87123456,Digital Dreams Enterprise,890123456789 ,-
+Instant Pot Duo' 6-Quart,92.63 ,70,Olla a presi�n multifunci�n 6 cuartos,Junio 17-07-23,-,45678901,Powerful Gadgets Inc.,345678901234 ,-
+GoPro Hero 10 Black,"4,153.12 ",42,C�mara de acci�n 5.3K,Septiembre 28-02-23,-,12345098,Future Appliances Ltd.,678901234567 ,"876 Avenida Serena, Pueblo Costero, Estado W7X 8Y9, Pa�s"
+Sonos One (Gen 2),"1,597.48 ",86,Altavoz inteligente con asistente de voz,Diciembre 09-10-22,-,98765432,Innovative Technologies Group,210987654321 ,-
+Nike React Infinity Run Flyknit,"4,467.82 ",43,Zapatillas de running para hombre,Octubre 14-12-22,-,54321678,Smart Devices Distributors,543210987654 ,"567 Avenida Principal Norte, Pueblo del Bosque, Estado C3D 4E5, Pa�s"
+LG 27-Inch 4K UHD Monitor,"2,572.84 ",84,Monitor de alta resoluci�n,Marzo 02-09-23,-,87654321,Epic Electronics Suppliers,789012345678 ,"890 Calle Encantada, Ciudad Moderna, Estado F6G 7H8, Pa�s"
+Fitbit Charge 4,"4,937.85 ",82,Rastreador de actividad f�sica,Abril 19-04-23,-,34567890,Ultimate Gadgets Corporation,876543210987 ,-
+Keurig K-Elite Single Serve,"3,907.88 ",91,Cafetera de un solo servicio,Febrero 11-03-23,-,21098765,Modern Appliances Network,234567890123 ,"789 Calle Secundaria, Ciudad Imaginaria, Estado M7N 8P9, Pa�s"
+Apple Watch Series 7,"2,020.47 ",95,Reloj inteligente con pantalla siempre encendida,Abril 01-05-23,-,-,-,-,-
+Garmin Forerunner 945,643.02 ,71,Reloj deportivo con GPS y m�sica,Marzo 15-11-22,-,45678901,-,-,-
+ASUS ROG Strix Scar 17,"3,161.53 ",90,Laptop para juegos con RTX 3080,Mayo 20-09-23,-,12345098,-,-,-
+Sony WH-1000XM4,"2,855.54 ",35,Auriculares inal�mbricos con cancelaci�n de ruido,Febrero 10-08-23,-,98765432,-,-,-
+Dell XPS 13',"1,511.63 ",52,Laptop ultradelgada con pantalla t�ctil,Julio 05-04-23,-,54321678,-,-,-
+Nintendo Switch,"1,295.62 ",41,Consola de videojuegos h�brida,Enero 30-03-23,-,35434534,-,-,-
+Nikon D850,"1,836.20 ",93,C�mara r�flex digital de alta resoluci�n,Septiembre 15-02-23,-,54543435,-,-,-
+Fitbit Versa 3,91.74 ,24,Smartwatch con monitor de salud,Agosto 04-07-23,-,36368388,-,-,-
+Samsung Galaxy S21,"4,499.14 ",49,Smartphone con c�mara de 108 MP,Octubre 27-11-22,-,10984632,-,-,-
+LG OLED CX 55-Inch TV,"1,362.70 ",17,Televisor OLED con resoluci�n 4K,Junio 10-05-23,-,75432168,-,-,-
+Bose SoundLink' Revolve,"2,903.46 ",18,Altavoz Bluetooth port�til,Mayo 18-03-23,-,29876543,-,-,-
+ASUS ROG Zephyrus G14,"3,838.70 ",51,Laptop para juegos con Ryzen 9,Noviembre 05-09-22,-,87123456,-,-,-
+Microsoft Surface Pro 7,743.54 ,73,Tableta 2 en 1 con teclado desmontable,Julio 22-08-23,-,45678901,-,-,-
+Dyson Airwrap' Complete,"2,853.41 ",1,Estilizador de cabello sin calor,Marzo 15-04-23,-,35434534,-,-,-
+Garmin Venu' 2,"3,810.92 ",49,Reloj inteligente con GPS y monitor de salud,Febrero 02-06-23,-,54543435,-,-,-
+Logitech MX Master 3,"4,837.24 ",37,Rat�n inal�mbrico ergon�mico,Agosto 30-01-23,-,36368388,-,-,-
+Instant Pot Air Fryer Lid,416.95 ,58,Tapa para fre�r al aire Instant Pot,Septiembre 11-10-22,-,87654321,-,-,-
+Samsung Odyssey G7 Gaming Monitor,612.92 ,73,Monitor curvo para juegos de 27 pulgadas,Abril 08-08-23,-,35434534,-,-,-
+Anker Soundcore Liberty Air 2,"2,878.90 ",24,Auriculares inal�mbricos con cancelaci�n de ruido,Mayo 25-12-22,-,54543435,-,-,-
+LG Gram 17'',645.12 ,70,Laptop ultraligera de 17 pulgadas,Junio 19-09-23,-,35434534,-,-,-
+Sony PlayStation 5,"1,176.04 ",36,Consola de videojuegos de �ltima generaci�n,Marzo 14-03-23,-,54543435,-,-,-
+Breville Barista Express,358.93 ,93,M�quina de caf� espresso con molinillo,Septiembre 15-02-23,-,36368388,-,-,-
+GoPro Max,"2,443.74 ",15,C�mara de acci�n con grabaci�n en 360 grados,Agosto 04-07-23,-,-,-,-,-
+Samsung Galaxy Watch 4,"1,095.93 ",32,Reloj inteligente con medici�n de salud,Octubre 27-11-22,-,34567890,-,-,-
+KitchenAid Stand Mixer,"4,288.45 ",88,Batidora de pie con cabezal inclinable,Junio 10-05-23,-,35434534,-,-,-
+JBL Charge 4,"4,621.61 ",5,Altavoz Bluetooth resistente al agua,Mayo 18-03-23,-,54543435,-,-,-
+Microsoft Xbox Series X,"2,651.00 ",30,Consola de videojuegos de pr�xima generaci�n,Noviembre 05-09-22,-,36368388,-,-,-
+Shark IQ Robot Vacuum,168.62 ,71,Aspiradora rob�tica con sistema de mapeo,Julio 22-08-23,-,12345098,-,-,-
+Canon EOS R5,"4,990.65 ",68,C�mara sin espejo de alta resoluci�n,Marzo 15-04-23,-,-,-,-,-
+Apple iPad Air (4th Gen),"2,943.18 ",95,Tableta con pantalla Liquid Retina,Febrero 02-06-23,-,54321678,-,-,-
+Sonos Beam,116.08 ,18,Barra de sonido compacta con Alexa,Agosto 30-01-23,-,87654321,-,-,-
+Razer BlackWidow Elite,"3,701.66 ",37,Teclado mec�nico para juegos,Septiembre 11-10-22,-,34567890,-,-,-
+-,-,-,-,-,-,-,-,-,-
